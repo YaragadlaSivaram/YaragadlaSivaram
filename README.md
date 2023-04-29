@@ -26,8 +26,7 @@ I am a recent graduate of Computer Science and Engineering with 1 year of intern
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
                     
-                  ### Socials
-                  
+                    ### Socials
                   
                 <p align="left">
                           
